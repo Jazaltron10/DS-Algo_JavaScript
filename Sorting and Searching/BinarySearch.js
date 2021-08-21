@@ -14,6 +14,8 @@ function indexOfItem(collection, target) {
     return null;
 }
 
+
+
 // Note that this array is now sorted!
 const names = ["Elida Sleight", "Francina Vigneault", "Lucie Hansman", "Nancie Rubalcaba"];
 

@@ -1,1 +1,1 @@
-console.log(+"43" + 2 )
+console.log(3 +"43" + 2 )
